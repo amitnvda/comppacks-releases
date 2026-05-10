@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "zxp": "CompPacks-1.0.7.zxp",
-  "update": "CompPacks-1.0.7-update.zip",
-  "updateUrl": "https://raw.githubusercontent.com/amitnvda/comppacks-releases/main/CompPacks-1.0.7-update.zip",
-  "releasedAt": "2026-05-10T12:42:56Z",
+  "version": "1.0.8",
+  "zxp": "CompPacks-1.0.8.zxp",
+  "update": "CompPacks-1.0.8-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/comppacks-releases/main/CompPacks-1.0.8-update.zip",
+  "releasedAt": "2026-05-10T13:42:29Z",
   "notes": ""
 }
