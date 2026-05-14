@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "zxp": "CompPacks-1.1.1.zxp",
-  "update": "CompPacks-1.1.1-update.zip",
-  "updateUrl": "https://raw.githubusercontent.com/amitnvda/comppacks-releases/main/CompPacks-1.1.1-update.zip",
-  "releasedAt": "2026-05-11T08:50:56Z",
-  "notes": ""
+  "version": "1.1.2",
+  "zxp": "CompPacks-1.1.2.zxp",
+  "update": "CompPacks-1.1.2-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/comppacks-releases/main/CompPacks-1.1.2-update.zip",
+  "releasedAt": "2026-05-11T00:00:00Z",
+  "notes": "Header refresh: Abstractor-style flat layout, inline green version pill, matched icon sizing. Synced HTML version label."
 }
